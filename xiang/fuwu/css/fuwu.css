@@ -67,6 +67,46 @@
 #main #main-b .li6 div a .zj2{position: absolute;left: 50%;top: 50%;transform: translate(-50%, -50%);}
 #main #main-b .li6 div a .zj2 h3{height: 82px;width: 80px;background-position: 0px -1118px;font-size: 24px;font-weight: 400;text-align: center;background-image: url("../images/2.png");background-repeat: no-repeat;margin-bottom: 24px;}
 #main #main-b .li6 div a .zj2 h4{font-size: 16px;white-space: nowrap;font-weight: 400;text-align: center;}
+#main #main-b .li6 div:hover i{background-size: 120%;}
+#main #main-b .li5 div:hover i{background-size: 120%;}
+
+#chaxun{height: 650px;margin-bottom: 60px;background: url(../images/4.jpg) center no-repeat #f3f3f3;background-size: cover;display: block;}
+#chaxun .cx{width: 100%;max-width: 1200px;margin: 0 auto;padding-top: 60px;color: #10181f;}
+#chaxun .cx h2{font-size: 24px;font-weight: 400;margin-bottom: 30px;padding-bottom: 30px;color: #333;text-align: center;position: relative;}
+#chaxun .cx h3{font-size: 16px;text-align: center;font-weight: 400;margin-bottom: 24px;}
+#chaxun .cx .cx-t{text-align: center;margin-bottom: 45px;}
+#chaxun .cx .cx-t .bt{text-align: center;width: 150px;height: 45px;border: 1px solid #000;font-size: 14px;border-radius: 1px;line-height: 0;background: 0 0;}
+#chaxun .cx .cx-t .bt img{width: 11px;padding-right: 10px;vertical-align: middle;margin-top: -1px;}
+#chaxun .cx .cx-l{border-right: 1px solid #dfdfdf;box-sizing: border-box;background-color: #fff;padding-top: 40px;height: 330px;width: 50%;float: left;text-align: center;}
+#chaxun .cx .cx-l h4{font-size: 18px;font-weight: 400;margin-bottom: 35px;text-align: center;}
+#chaxun .cx .cx-l p{font-size: 14px;line-height: 24px;color: #999;text-align: center;height: 90px;width: 85%;max-width: 440px;margin: 0 auto;}
+#chaxun .cx .cx-l img{width: 56px;display: block;margin: 0 auto 25px;}
+#chaxun .cx .cx-l a{font-size: 14px;color: #09c;display: inline-block;position: relative;}
+#chaxun .cx .cx-r{border-right: 1px solid #dfdfdf;box-sizing: border-box;background-color: #fff;padding-top: 40px;height: 330px;width: 50%;float: right;text-align: center;}
+#chaxun .cx .cx-r h4{font-size: 18px;font-weight: 400;margin-bottom: 35px;text-align: center;}
+#chaxun .cx .cx-r p{font-size: 14px;line-height: 24px;color: #999;text-align: center;height: 90px;width: 85%;max-width: 440px;margin: 0 auto;}
+#chaxun .cx .cx-r img{width: 56px;display: block;margin: 0 auto 25px;}
+#chaxun .cx .cx-r a{font-size: 14px;color: #09c;display: inline-block;position: relative;}
+
+#lianxi{height: 310px;padding-top: 110px;background: url("../images/5.jpg") no-repeat scroll center center / cover transparent;color: #FFF;}
+#lianxi h2{height: 60px;font-size: 24px;font-weight: 400;text-align: center;position: relative;margin-bottom: 30px;}
+#lianxi #tb{width: 100%;text-align: center;overflow: hidden;height: 104px;position: relative;}
+#lianxi #tb li{width: 180px;text-align: center;font-size: 16px;display: inline-block;}
+#lianxi #tb li a{display: inline-block;color: #FFF;}
+#lianxi #tb li a span{display: block;margin: 0px auto 28px;}
+#lianxi #tb .wx a span{background-position: 0px -998px;height: 60px;width: 60px;background-image: url("../images/9.png");background-repeat: no-repeat;}
+#lianxi #tb .kk a span{background-position: 0px -638px;height: 60px;width: 60px;background-image: url("../images/9.png");background-repeat: no-repeat;}
+#lianxi #tb .wb a span{background-position: 0px -758px;height: 60px;width: 60px;background-image: url("../images/9.png");background-repeat: no-repeat;}
+#lianxi #tb .dh a span{background-position: 0px -878px;height: 60px;width: 60px;background-image: url("../images/9.png");background-repeat: no-repeat;}
+#lianxi #tb .wx:hover span{background-position: 0px -1058px;}
+#lianxi #tb .kk:hover span{background-position: 0px -698px;}
+#lianxi #tb .wb:hover span{background-position: 0px -818px;}
+#lianxi #tb .dh:hover span{background-position: 0px -938px;}
+
+
+
+
+
 
 
 
