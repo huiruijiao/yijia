@@ -36,11 +36,13 @@
 #top .top-t .top-t-r ul li:nth-child(3)>a:hover{background-position:0 -256px}
 
 #main{height:600px;width:96%;margin: 0 auto;background: #EFEFEF;color: #333;overflow: hidden;}
-#main #main-l{overflow: hidden;height:420px;width:56.65%;overflow: hidden;margin-top:2% ;float:left;}
+#main #main-l{overflow: hidden;height:420px;width:56.65%;overflow: hidden;margin-top:2% ;float:left;position:relative;background-size:420px 420px;}
 #main #main-l .fd1{height:420px;background: url(../images/41.png) no-repeat top ;width: 420px;background-size: cover;}
 #main #main-l .fd2{height:420px;background: url(../images/39.png) no-repeat top;width: 420px;background-size:cover ;}
 #main #main-l .fd3{height:420px;background: url(../images/40.png) no-repeat top;width: 420px;background-size:cover ;}
 #main #main-l .fd4{height:420px;background: url(../images/43.png) no-repeat top;width: 420px;background-size:cover ;} 
+
+
 #main #main-r{overflow: hidden;height: 600px;width: 35.5%;float: left;text-align: left;color: #333;}
 #main #main-r #jieshao{overflow: hidden;font-size: 24px;font-weight: 400;margin-bottom: 25px;text-align: left;padding-top:20%;height: 30px;width:100%;}
 #main #main-r #jiage{overflow: hidden;height: 30px;width:100%;color: #404040;font-weight: 300;padding:15px 0;margin-bottom:20px;text-align: left;font-size: 36px;}

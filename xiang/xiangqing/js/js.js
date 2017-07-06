@@ -1,13 +1,5 @@
 $(function() {
-	$(document).ready(function() {
-		$('.top-t-l').mousemove(function() {
-			$('#tu').slideDown(200); //可以设置切换时间 
-		});
-		$('.top-t-l').mouseleave(function() {
-			$('#tu').slideUp("fast");
-		});
-
-	});
+	
 	// ActionScript Document
 	$(".ding").on("mouseenter", function() {
 		$('#xia1').show();

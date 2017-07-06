@@ -2,7 +2,7 @@ $(function(){
 	new  Slideshow({
 		boxId:"#box",
 		imgs:["images/4.jpg","images/7.jpg","images/9.jpg","images/6.jpg"],
-		width:100%,
+		width:1920,
 		height:700,
 		timeSpace:3000,
 		fadeInOutTime:2000,
